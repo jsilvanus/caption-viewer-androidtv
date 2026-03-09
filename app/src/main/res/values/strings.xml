@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caption Viewer</string>
+    <string name="status_listening">Listening on %1$s:%2$d — POST /caption with {\"text\":\"…\"}</string>
+</resources>

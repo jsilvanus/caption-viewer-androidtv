@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_black">#FF000000</color>
+    <color name="caption_white">#FFFFFFFF</color>
+    <color name="status_gray">#FF888888</color>
+</resources>
